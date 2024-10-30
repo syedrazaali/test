@@ -151,4 +151,4 @@ Design a program that generates a maze and lets the player navigate through it.
 
 5. **Deadline:**
 
-   - We will submit this assignment at the end
+   - Deadline is tentative, we will submit the assignment depending on how much time the class needs to get it done.
